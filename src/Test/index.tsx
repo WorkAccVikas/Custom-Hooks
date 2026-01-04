@@ -1,9 +1,11 @@
 import One from "./one";
+import Two from "./two";
 
 const index = () => {
   return (
     <>
-      <One />
+      {/* <One /> */}
+      <Two />
     </>
   );
 };
